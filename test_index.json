@@ -1,0 +1,38 @@
+[
+{
+  "id":"category 01",
+  "description":"Category 01",
+  "items":[
+            {
+              "id":"item 01"
+              "description":"Category 01 - Item 01"
+            },
+            {
+              "id":"item 02"
+              "description":"Category 01 - Item 02"
+            },
+            {
+              "id":"item 03"
+              "description":"Category 01 - Item 03"
+            },
+          ]
+},
+{
+  "id":"category 02",
+  "description":"Category 02",
+  "items":[
+            {
+              "id":"item 01"
+              "description":"Category 02 - Item 01"
+            },
+            {
+              "id":"item 02"
+              "description":"Category 02 - Item 02"
+            },
+            {
+              "id":"item 03"
+              "description":"Category 02 - Item 03"
+            },
+          ]
+}
+]
