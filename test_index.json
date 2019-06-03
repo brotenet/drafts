@@ -1,4 +1,7 @@
-[
+{
+"id":"tst_repo_01",
+"description":"Test repository 01",
+"categories":[
 {
   "id":"category 01",
   "description":"Category 01",
@@ -36,3 +39,4 @@
           ]
 }
 ]
+}
